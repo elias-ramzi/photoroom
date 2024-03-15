@@ -1,0 +1,20 @@
+# Lib
+numpy
+torch==1.13.1
+torchvision==0.14.1
+pillow
+pandas
+tqdm
+
+# Utils
+matplotlib
+SciencePlots
+ipython
+jupyter
+
+# Dev
+ipdb
+autopep8
+flake8
+flake8-annotations
+isort
